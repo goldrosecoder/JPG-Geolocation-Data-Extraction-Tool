@@ -9,10 +9,5 @@ The program’s main networking functionality is the email sending function with
 
 In order for this program to work, a Gmail "App Password" will need to be setup within your account. To note, 2-step verification will need to be enabled on your Gmail account for this option to show. Additionally, this program only sends the outputs from a Gmail account. This app password is separate from the account password and allows outside applications to sign into the account without 2-Step verification.
 
-## Program Functions
-![image](https://github.com/goldrosecoder/JPG-Geolocation-Data-Extraction-Tool/assets/41834404/f5726cf3-fe73-41bc-ad8c-c92d3592e53f)
-
-# Data, data types, and transformations
-![image](https://github.com/goldrosecoder/JPG-Geolocation-Data-Extraction-Tool/assets/41834404/e2013798-202b-4235-9dff-9be746a8319a)
 
 Happy photo analysis!
